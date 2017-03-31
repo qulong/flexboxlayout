@@ -190,3 +190,5 @@ Please read and follow the steps in [CONTRIBUTING.md](https://github.com/google/
 
 ## License
 Please see [License](https://github.com/google/flexbox-layout/blob/master/LICENSE)
+
+##原文 http://mp.weixin.qq.com/s/w76l1fpbsEyWoowytDj0iw
